@@ -256,9 +256,6 @@ Once you open `instructor.py` with VS Code, replace the code snippet that has `d
 
         self.to(device)
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=PromtEngineer/localGPT&type=Date)](https://star-history.com/#PromtEngineer/localGPT&Date)
 
 # Disclaimer
 
