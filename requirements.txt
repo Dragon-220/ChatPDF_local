@@ -21,4 +21,3 @@ requests
 
 # Excel File Manipulation
 openpyxl
-PyMuPDF
